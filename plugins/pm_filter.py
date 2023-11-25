@@ -132,7 +132,7 @@ async def next_page(bot, query):
         btn.insert(0, 
             [
                 InlineKeyboardButton("𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/filmy_funs_update"),
-                InlineKeyboardButton("❤️𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝❤️", url="https://t.me/tutorial003/18")
+                InlineKeyboardButton("✿ 𝐁𝐮𝐲 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 ✿", url="https://t.me/tutorial003/18")
             ]
         )
         btn.insert(0, [
@@ -143,7 +143,7 @@ async def next_page(bot, query):
         btn.insert(0, 
             [
                 InlineKeyboardButton("𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/filmy_funs_update"),
-                InlineKeyboardButton("❤️𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝❤️", url="https://t.me/tutorial003/18")
+                InlineKeyboardButton("✿ 𝐁𝐮𝐲 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 ✿", url="https://t.me/tutorial003/18")
             ]
         )
         btn.insert(0, [
@@ -1995,7 +1995,7 @@ async def auto_filter(client, msg, spoll=False):
         btn.insert(0, 
             [
                 InlineKeyboardButton("𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/filmy_funs_update"),
-                InlineKeyboardButton("❤️𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝❤️", url="https://t.me/tutorial003/18")
+                InlineKeyboardButton("✿ 𝐁𝐮𝐲 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 ✿", url="https://t.me/Premiumloggf/2")
             ]
         )
         btn.insert(0, [
@@ -2006,7 +2006,7 @@ async def auto_filter(client, msg, spoll=False):
         btn.insert(0, 
             [
                 InlineKeyboardButton("𝐌𝐨𝐯𝐢𝐞𝐬 𝐔𝐩𝐝𝐚𝐭𝐞𝐬", url="https://t.me/filmy_funs_update"),
-                InlineKeyboardButton("❤️𝐇𝐨𝐰 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝❤️", url="https://t.me/tutorial003/18")
+                InlineKeyboardButton("✿ 𝐁𝐮𝐲 𝐏𝐫𝐞𝐦𝐢𝐮𝐦 ✿", url="https://t.me/Premiumloggf/2")
             ]
         )
         btn.insert(0, [
