@@ -6,7 +6,7 @@
 class script(object):
     START_TXT = """<b> 𝙷𝙴𝙻𝙻𝙾 {},
 𝙸 𝙲𝙰𝙽 𝙿𝚁𝙾𝚅𝙸𝙳𝙴 𝙼𝙾𝚅𝙸𝙴𝚂, 𝙹𝚄𝚂𝚃 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 𝙰𝙽𝙳 𝙴𝙽𝙹𝙾𝚈 
-𝐦𝐚𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐛𝐲 : <a href=https://t.me/SunnySeee>𝙎𝙪𝙣𝙣𝙮 """
+𝐦𝐚𝐧𝐭𝐚𝐢𝐧𝐞𝐝 𝐛𝐲 : <a href=https://t.me/SunnySeee>𝙎𝙪𝙣𝙣𝙮</a> """
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
